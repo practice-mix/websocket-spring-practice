@@ -1,6 +1,6 @@
 /**
  * websocket + rabbitmq
  * <p>
- * https://dzone.com/articles/build-a-chat-application-using-spring-boot-websock
+ * https://www.javainuse.com/spring/boot-websocket-chat
  */
 package com.example.websocketspringpractice.chat;
